@@ -1,0 +1,63 @@
+.box1{
+    border: solid black;
+    background-color: brown;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    outline: 2px;
+    outline-style: dashed;    
+    outline-offset: 12px;
+}
+
+.box2{
+    border: solid black;
+    background-color: aqua;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+.circle{
+    border-radius: 50px ;
+    background-color: gold;
+    height: 100px;
+    width: 200px;
+    
+}
+
+.circle2{
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    outline: 2px;
+    outline-style: dotted;
+    outline-offset: 2px;
+
+}
+
+.circle3{
+    border-radius: 50%;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    margin-top: 8px;
+    
+}
+
+.box3{
+    border: 1px solid black;
+    width: 150px;
+    height: 100px;
+    background-color:blue;
+    
+    
+}
